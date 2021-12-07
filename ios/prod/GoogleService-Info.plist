@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>445198856174-l8snlqlshft6rinjnu9og3ddaikfq0kp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.445198856174-l8snlqlshft6rinjnu9og3ddaikfq0kp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOWnGpvJDUpecRx9SHB2g6WgAMo7FC4kQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>445198856174</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.official-pacificleague.pacificleague</string>
+	<key>PROJECT_ID</key>
+	<string>pacificleague-com</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pacificleague-com.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:445198856174:ios:5bdb219f15f19492</string>
+	<key>DATABASE_URL</key>
+	<string>https://pacificleague-com.firebaseio.com</string>
+</dict>
+</plist>

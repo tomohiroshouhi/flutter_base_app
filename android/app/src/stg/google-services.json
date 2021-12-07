@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "445198856174",
+    "firebase_url": "https://pacificleague-com.firebaseio.com",
+    "project_id": "pacificleague-com",
+    "storage_bucket": "pacificleague-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445198856174:android:e5ca18925da0b197",
+        "android_client_info": {
+          "package_name": "com.official_pacificleague.pacificleague"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445198856174-dig6eqkuk7rpa22bsgm5h1rd0trcv583.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfRaHQznIKOJ6lUDi92GEUzFrDXaep12s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445198856174-dig6eqkuk7rpa22bsgm5h1rd0trcv583.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445198856174-21ctj9mufnutj7fkssvhl3lbfrclboe7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pacificleague"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445198856174:android:aba77a74aabc946f",
+        "android_client_info": {
+          "package_name": "com.official_pacificleague.pacificleague.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445198856174-dig6eqkuk7rpa22bsgm5h1rd0trcv583.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfRaHQznIKOJ6lUDi92GEUzFrDXaep12s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445198856174-dig6eqkuk7rpa22bsgm5h1rd0trcv583.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445198856174-21ctj9mufnutj7fkssvhl3lbfrclboe7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pacificleague"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445198856174:android:00a0ca69e73986f7",
+        "android_client_info": {
+          "package_name": "com.official_pacificleague.pacificleague.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445198856174-dig6eqkuk7rpa22bsgm5h1rd0trcv583.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfRaHQznIKOJ6lUDi92GEUzFrDXaep12s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445198856174-dig6eqkuk7rpa22bsgm5h1rd0trcv583.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445198856174-21ctj9mufnutj7fkssvhl3lbfrclboe7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pacificleague"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
