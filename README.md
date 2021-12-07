@@ -1,6 +1,7 @@
-# plm_com_flutter
+# FlutterBaseApp
 
-.COMのWebViewApp
+Flutterのベースアップ
+スキーマで環境変更
 
 ## Getting Started
 
